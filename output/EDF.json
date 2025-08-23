@@ -1,0 +1,713 @@
+[
+    {
+        "arrival_time": 0,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 5,
+        "start_time": 2.235244062374246,
+        "finish_time": 2.236244062374246,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 0,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 8,
+        "start_time": 2.8897588563342085,
+        "finish_time": 2.8907588563342084,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 0,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 9,
+        "start_time": 3.565153131236316,
+        "finish_time": 3.566153131236316,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 2,
+        "amount": 5,
+        "consumer": "House2",
+        "deadline": 11,
+        "start_time": 3.7447287914744116,
+        "finish_time": 3.9727207963029603,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 1,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 14,
+        "start_time": 4.120630568528802,
+        "finish_time": 4.297271538931444,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 3,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 16,
+        "start_time": 5.987294072801149,
+        "finish_time": 5.988294072801149,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 3,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 16,
+        "start_time": 6.027762271565014,
+        "finish_time": 6.028762271565014,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 4,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 16,
+        "start_time": 6.0727777006074035,
+        "finish_time": 6.073777700607404,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 5,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 17,
+        "start_time": 6.65192502367486,
+        "finish_time": 7.325073608102772,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 7,
+        "amount": 1,
+        "consumer": "House3",
+        "deadline": 12,
+        "start_time": 8.851205025457467,
+        "finish_time": 8.852205025457467,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 4,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 19,
+        "start_time": 8.970204094938557,
+        "finish_time": 9.318691299399543,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 9,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 15,
+        "start_time": 9.325223722984024,
+        "finish_time": 9.825599251577612,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 4,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 19,
+        "start_time": 10.962899034618246,
+        "finish_time": 10.963899034618246,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 8,
+        "amount": 2,
+        "consumer": "House3",
+        "deadline": 21,
+        "start_time": 11.332143522700685,
+        "finish_time": 11.574787283744536,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 11,
+        "amount": 2,
+        "consumer": "House3",
+        "deadline": 17,
+        "start_time": 11.71405143688159,
+        "finish_time": 11.71505143688159,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 8,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 21,
+        "start_time": 12.022420195704218,
+        "finish_time": 12.023420195704217,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 12,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 21,
+        "start_time": 12.194829298532646,
+        "finish_time": 13.309403399435105,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 10,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 22,
+        "start_time": 13.43484206285091,
+        "finish_time": 13.43584206285091,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 12,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 22,
+        "start_time": 13.572141105494756,
+        "finish_time": 13.839131476406713,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 9,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 23,
+        "start_time": 14.629507702820884,
+        "finish_time": 15.249561108158696,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 15,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 20,
+        "start_time": 15.534245300257126,
+        "finish_time": 15.587888212365597,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 14,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 22,
+        "start_time": 15.885859248924014,
+        "finish_time": 16.324345056227255,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 14,
+        "amount": 5,
+        "consumer": "House1",
+        "deadline": 22,
+        "start_time": 19.072668169778723,
+        "finish_time": 19.16318713587779,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 9,
+        "amount": 5,
+        "consumer": "House3",
+        "deadline": 23,
+        "start_time": 19.64919234780636,
+        "finish_time": 21.01065739847088,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 11,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 24,
+        "start_time": 21.630993912314302,
+        "finish_time": 21.631993912314304,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 12,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 24,
+        "start_time": 23.48104129958478,
+        "finish_time": 24.618981254066238,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 18,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 25,
+        "start_time": 24.883594638480616,
+        "finish_time": 24.884594638480618,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 12,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 27,
+        "start_time": 25.45194481163418,
+        "finish_time": 25.8401411802421,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 12,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 27,
+        "start_time": 26.432230447793707,
+        "finish_time": 26.8160078593402,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 13,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 27,
+        "start_time": 27.38985598087379,
+        "finish_time": 27.609451013557784,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 20,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 27,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 16,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 28,
+        "start_time": 29.138966399198512,
+        "finish_time": 29.362798299452063,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 16,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 29,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 16,
+        "amount": 2,
+        "consumer": "House3",
+        "deadline": 29,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 18,
+        "amount": 1,
+        "consumer": "House1",
+        "deadline": 28,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 22,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 29,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 17,
+        "amount": 5,
+        "consumer": "House2",
+        "deadline": 30,
+        "start_time": 30.807620405668132,
+        "finish_time": 30.808620405668133,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 21,
+        "amount": 5,
+        "consumer": "House1",
+        "deadline": 30,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 17,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 31,
+        "start_time": 31.05862920224451,
+        "finish_time": 31.059629202244512,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 21,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 32,
+        "start_time": 31.173077331323952,
+        "finish_time": 31.249898171636396,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 25,
+        "amount": 5,
+        "consumer": "House2",
+        "deadline": 34,
+        "start_time": 31.304743583969092,
+        "finish_time": 32.53399724548576,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 25,
+        "amount": 5,
+        "consumer": "House3",
+        "deadline": 34,
+        "start_time": 34.11103517686818,
+        "finish_time": 34.54892015526661,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 21,
+        "amount": 1,
+        "consumer": "House3",
+        "deadline": 35,
+        "start_time": 34.60123158398908,
+        "finish_time": 36.004721886932145,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 21,
+        "amount": 5,
+        "consumer": "House2",
+        "deadline": 35,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 22,
+        "amount": 1,
+        "consumer": "House2",
+        "deadline": 36,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 25,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 35,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 28,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 36,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 27,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 38,
+        "start_time": 36.41840730916349,
+        "finish_time": 36.41940730916349,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 28,
+        "amount": 1,
+        "consumer": "House2",
+        "deadline": 38,
+        "start_time": 36.60858903991945,
+        "finish_time": 36.709313861437195,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 31,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 38,
+        "start_time": 37.18998053376702,
+        "finish_time": 37.699618779585215,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 32,
+        "amount": 4,
+        "consumer": "House2",
+        "deadline": 39,
+        "start_time": 39.40141041027123,
+        "finish_time": 39.713173588743764,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 34,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 39,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_deadline"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 5,
+        "consumer": "House3",
+        "deadline": 40,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 26,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 41,
+        "start_time": 39.75702339730252,
+        "finish_time": 39.758023397302516,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 30,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 41,
+        "start_time": 39.907069644378446,
+        "finish_time": 39.90806964437844,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 31,
+        "amount": 5,
+        "consumer": "House3",
+        "deadline": 41,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 29,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 42,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 31,
+        "amount": 1,
+        "consumer": "House3",
+        "deadline": 43,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 5,
+        "consumer": "House2",
+        "deadline": 43,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 43,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 29,
+        "amount": 2,
+        "consumer": "House2",
+        "deadline": 44,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 32,
+        "amount": 5,
+        "consumer": "House1",
+        "deadline": 44,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 32,
+        "amount": 1,
+        "consumer": "House3",
+        "deadline": 44,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 44,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 36,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 45,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 31,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 46,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 32,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 46,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 32,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 46,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 1,
+        "consumer": "House1",
+        "deadline": 46,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 36,
+        "amount": 3,
+        "consumer": "House3",
+        "deadline": 46,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 35,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 47,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 33,
+        "amount": 2,
+        "consumer": "House1",
+        "deadline": 48,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 36,
+        "amount": 4,
+        "consumer": "House3",
+        "deadline": 48,
+        "start_time": 39.95594318404989,
+        "finish_time": 39.95694318404989,
+        "status": "processed"
+    },
+    {
+        "arrival_time": 39,
+        "amount": 2,
+        "consumer": "House3",
+        "deadline": 48,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 37,
+        "amount": 1,
+        "consumer": "House2",
+        "deadline": 49,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 38,
+        "amount": 3,
+        "consumer": "House2",
+        "deadline": 50,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 39,
+        "amount": 4,
+        "consumer": "House1",
+        "deadline": 50,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 36,
+        "amount": 1,
+        "consumer": "House2",
+        "deadline": 51,
+        "start_time": null,
+        "finish_time": null,
+        "status": "dropped_sim_time"
+    },
+    {
+        "arrival_time": 38,
+        "amount": 3,
+        "consumer": "House1",
+        "deadline": 53,
+        "start_time": 39.97060638135774,
+        "finish_time": 39.97160638135774,
+        "status": "processed"
+    }
+]
